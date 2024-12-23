@@ -24,13 +24,13 @@
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "@vitejs/plugin-vue": "^5.1.2",
-    "electron": "31.3.1",
+    "electron": "33.2.1",
     "eslint": "^9.8.0",
     "eslint-plugin-import": "^2.25.0",
     "sass": "^1.77.8",
     "ts-node": "^10.0.0",
     "typescript": "^5.5.4",
-    "vite": "^5.0.12"
+    "vite": "^6.0.5"
   },
   "keywords": [],
   "author": {
